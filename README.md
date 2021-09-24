@@ -1,5 +1,9 @@
 ### Hi there, I'm Diego Medeiros 👋
 
+📶 Telecommunications Engineer  
+
+🐍 Currently coding with Python 3
+
 
 <div>
   <a href="https://github.com/diegodafranca">
